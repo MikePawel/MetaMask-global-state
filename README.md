@@ -6,7 +6,7 @@ This repository is a prebuild React + Vite Web App that utilizes the core functi
 
 - Clone the repo:
 ```
-git clone https://github.com/MikePawel/MetaMask-global-state
+git clone https://github.com/MikePawel/MetaMask-global-state.git
 ```
 - install packages:
 ```
